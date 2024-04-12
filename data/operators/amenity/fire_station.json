@@ -1415,7 +1415,6 @@
     {
       "displayName": "Pasco County Fire Rescue",
       "locationSet": {"include": ["us-fl.geojson"]},
-      "preserveTags": ["^name"],
       "tags": {
         "amenity": "fire_station",
         "operator": "Pasco County Fire Rescue",
